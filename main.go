@@ -6,9 +6,9 @@ import (
 
 	"flag"
 
-	"github.com/xackery/eqtracker/aa"
-	"github.com/xackery/eqtracker/dps"
-	"github.com/xackery/eqtracker/tracker"
+	"github.com/xackery/aatracker/aa"
+	"github.com/xackery/aatracker/dps"
+	"github.com/xackery/aatracker/tracker"
 )
 
 func main() {

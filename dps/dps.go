@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xackery/eqtracker/tracker"
+	"github.com/xackery/aatracker/tracker"
 )
 
 type DPS struct {
